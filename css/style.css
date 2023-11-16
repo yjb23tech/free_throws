@@ -1,4 +1,9 @@
-.react-logo {
-    width: 60px;
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
+.react-logo {
+    width: 30px;
+}
